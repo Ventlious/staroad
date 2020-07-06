@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/red_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/black_cushion_chair": {
     "criteria": {
       "has_wool": "2020-07-04 03:21:19 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-07-01 23:47:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/brown_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
     },
     "done": true
   },
@@ -722,6 +734,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/black_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-01 23:28:13 +0000"
@@ -743,6 +761,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-01 23:28:13 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/pink_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
     },
     "done": true
   },
@@ -800,6 +824,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/mechanical_anvil": {
+    "criteria": {
+      "has_furnace": "2020-07-06 09:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-07-01 23:28:13 +0000"
@@ -845,6 +875,12 @@
   "pixelmon:recipes/decorative/gray_rug": {
     "criteria": {
       "has_wool": "2020-07-04 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/infuser": {
+    "criteria": {
+      "has_furnace": "2020-07-06 09:48:29 +0000"
     },
     "done": true
   },
@@ -1035,6 +1071,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/green_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
+    },
+    "done": true
+  },
   "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
     "criteria": {
       "wild_battle_victory_trigger": "2020-07-01 23:47:27 +0000"
@@ -1149,15 +1191,33 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/white_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-07-02 04:18:47 +0000"
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/yellow_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-07-02 00:53:43 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/orange_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
     },
     "done": true
   },
@@ -1234,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-07-02 04:18:47 +0000"
@@ -1243,6 +1309,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-07-03 05:24:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/purple_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
     },
     "done": true
   },
@@ -1309,6 +1381,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-07-03 05:24:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/blue_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
     },
     "done": true
   },
@@ -1553,6 +1631,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/cyan_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-07-02 00:59:19 +0000"
@@ -1592,6 +1676,12 @@
   "pixelmon:recipes/decorative/orange_umbrella": {
     "criteria": {
       "has_wool": "2020-07-04 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-07-06 09:47:02 +0000"
     },
     "done": true
   },
@@ -1677,6 +1767,12 @@
   "pixelmon:recipes/decorative/brown_cushion_chair": {
     "criteria": {
       "has_wool": "2020-07-04 03:21:19 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/gray_water_float": {
+    "criteria": {
+      "has_slime": "2020-07-06 09:26:01 +0000"
     },
     "done": true
   }
